@@ -1,0 +1,9 @@
+FluxnetLSM/
+PLUMBER2/
+
+*.nc
+*.csv
+*.png
+*.pdf
+*.zip
+cable_results/
