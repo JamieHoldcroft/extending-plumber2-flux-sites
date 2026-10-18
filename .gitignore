@@ -2,7 +2,7 @@ FluxnetLSM/
 PLUMBER2/
 
 *.nc
-*.csv
+# *.csv
 *.png
 *.pdf
 *.zip
