@@ -1,12 +1,12 @@
 FluxnetLSM/
 PLUMBER2/
+
 *.png
 *.pdf
 *.zip
-del.md
-test.py
-
 *.nc
 *.csv
+
+test.py
 
 cable_results/
