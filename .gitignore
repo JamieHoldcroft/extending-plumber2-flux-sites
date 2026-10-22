@@ -10,3 +10,9 @@ PLUMBER2/
 test.py
 
 cable_results/
+
+C4_fraction/
+JULES_ancillaries/
+c3c4_from_maps.py
+cable_results_run2/
+site_coords.txt
